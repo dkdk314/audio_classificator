@@ -1,1 +1,1 @@
-# audio_classificator
+# This is simple audio classifier
